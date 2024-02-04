@@ -7,3 +7,4 @@
 Керівництва та корисності:
 1. Як створити клавіатуру на базі Teensy - https://www.pjrc.com/teensy/td_keyboard.html
 2. Клавіатура БК 0010-01 на Keyboard-Layout-Editor.com - http://www.keyboard-layout-editor.com/#/gists/1fe9fadbb2c56da54ca7318bb49091d8
+3. Ожитвити будь-яку клавіатуру - https://github.com/thedalles77/USB_Laptop_Keyboard_Controller/tree/master
